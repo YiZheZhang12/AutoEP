@@ -5,6 +5,8 @@ Here are several baselines:
 - [eoh](https://github.com/FeiLiu36/EoH)
 - [reeov](https://github.com/ai4co/reevo)
 
+  
+
 ## 1. Foundation Building of FastGPT (Agent Framework Building)
 [FastGPT](https://github.com/labring/FastGPT) is an efficient knowledge Q&A system based on large language models, supporting private deployment and custom workflow construction.
 - **Official GitHub Repository**: [https://github.com/labring/FastGPT](https://github.com/labring/FastGPT)
@@ -297,3 +299,4 @@ c. &zwnj;**Parameter Extraction Node**&zwnj;
 
 4. **Avoid Inference-Optimized Models**  
    Inference models are discouraged due to poor extraction quality and slow speed (though combining multiple LLMs may enhance performance).
+
